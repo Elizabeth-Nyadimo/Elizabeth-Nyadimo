@@ -1,56 +1,65 @@
-# 👋 Hi, I'm Elizabeth Nyadimo
+# 👋 Hi, I'm Elizabeth Nyadimo  
 
-🎯 I help organizations use data and machine learning to solve real-world public health and development challenges.
-
-I'm a Public Health & Epidemiology professional turned Data Scientist, combining 7+ years of domain experience with advanced analytics, AI, and visualization skills. My consulting and analytical work empowers NGOs, health departments, and research firms with clear, actionable insights that inform policy and improve outcomes.
-
----
-
-## 🔍 What I Do
-- 📊 Data Analytics & Visualization (Python, Power BI, Tableau)
-- 🤖 Machine Learning & AI for public health outcomes
-- 🧹 Data Cleaning & Wrangling (Excel, Pandas)
-- 🧠 Predictive Modeling & Insight Generation
-- 📑 Monitoring & Evaluation (M&E)
+💡 **Data Analyst | Business Intelligence Developer | Project Management Professional**  
+I specialize in transforming raw data into clear, actionable insights using **Python, SQL, Power BI, and Machine Learning**. My work bridges **analytics, visualization, and decision-making**, helping organizations streamline operations, improve performance, and make data-driven choices.  
 
 ---
 
-## 🚀 Featured Projects
-Here are a few ways I’ve turned raw data into measurable value:
+## 🚀 Featured Projects  
 
-- **💧 Water Consumption Analytics** – Uncovered anomalies, usage patterns, and payment behavior across zones.
-  
-
----
-
-## ⚙️ Tools & Skills
-| Category | Tools |
-|---------|-------|
-| Programming | Python, Pandas, Jupyter |
-| Data Viz | Power BI, Tableau, Matplotlib, Seaborn |
-| ML/AI | Scikit-learn, XGBoost, Time Series (Prophet), NLP |
-| Data Cleaning | Excel, Python |
-| Research & Stats | Python,Epidemiology |
-| Project Support | M&E, Strategic Planning, Report Writing |
+### 📊 1. [Water Utility Revenue & Consumption Dashboard](https://github.com/Elizabeth-Nyadimo/Water-Utility-Revenue-Consumption-Dashboard)  
+Interactive Power BI dashboard analyzing **monthly water consumption, billing, and payments** to identify trends, revenue gaps, and operational inefficiencies.  
+**Tech Stack:** Power BI, DAX, Data Cleaning, Data Modeling  
 
 ---
 
-## 🧠 Machine Learning Use Cases in My Work
-- **Classification:** Predict bill payment defaulters based on past usage
-
+### 📈 2. [Company Insights Dashboard](https://github.com/Elizabeth-Nyadimo/Company-Insights-Dashboard)  
+Business intelligence dashboard for monitoring **sales performance, revenue trends, and operational KPIs** across multiple regions.  
+**Tech Stack:** Power BI, DAX, Data Transformation  
 
 ---
 
-## 📫 Let’s Collaborate
-💼 I’m available for consulting, freelance, or project-based work in:
-- Data science for public health & development
-- AI-based decision support tools
-- Dashboards and reporting
-- ML model building and evaluation
+### 🩺 3. [HIV Treatment Analysis Dashboard](https://github.com/Elizabeth-Nyadimo/HIV-Treatment-Analysis-Dashboard)  
+Power BI solution analyzing **treatment uptake, adherence, and outcomes** to support better program management and resource allocation.  
+**Tech Stack:** Power BI, Data Cleaning, Advanced DAX  
 
-📧 Email: nyadimoe@yahoo.com  
-🌍 Location: Nairobi, Kenya  
-🔗 LinkedIn: [www.linkedin.com/in/
-elizabethnyadimo]
+---
 
-⭐ Let’s turn data into action and intelligence.
+### 🩺 4. [Diabetes Risk Assessment](https://github.com/Elizabeth-Nyadimo/diabetes-risk-assessment)  
+Machine learning project predicting the **risk of diabetes** based on patient health indicators, with model evaluation and accuracy reporting.  
+**Tech Stack:** Python, Pandas, Scikit-learn, Matplotlib  
+
+---
+
+### 💧 5. [Water Utility Analytics – Payment Compliance Prediction](https://github.com/Elizabeth-Nyadimo/Water-Utility-Analytics-Payment-Compliance-Prediction)  
+Machine learning app (Streamlit) predicting **customer payment compliance** to help utilities reduce revenue loss and improve billing efficiency.  
+**Tech Stack:** Python, Streamlit, Pandas, Scikit-learn  
+
+---
+
+## 🛠 Skills  
+
+- **Data Analytics & Visualization:** Power BI, Tableau, Excel, DAX  
+- **Programming & Data Science:** Python, SQL, Pandas, NumPy, Scikit-learn  
+- **Machine Learning:** Classification, Regression, Model Evaluation, Predictive Modeling  
+- **Project Management:** Basic & Advanced Project Management Principles, Agile, Stakeholder Engagement  
+- **Other Tools:** Git/GitHub, Streamlit, Matplotlib, Seaborn  
+
+---
+
+## 📌 How I Work  
+I combine **data analysis, visualization, and project management expertise** to deliver solutions that are both technically sound and strategically aligned. My approach is:  
+
+1. **Understand the problem** – Business goals & context  
+2. **Explore the data** – Cleaning, transformation & visualization  
+3. **Model & analyze** – Apply analytics & machine learning  
+4. **Communicate insights** – Dashboards, reports, and recommendations  
+
+---
+
+## 📫 Let's Connect  
+- **Email:** nyadimoe@yahoo.com  
+- **LinkedIn:** [Elizabeth Nyadimo](https://www.linkedin.com/in/elizabeth-nyadimo)  
+- **GitHub:** [Elizabeth-Nyadimo](https://github.com/Elizabeth-Nyadimo)  
+
+---
