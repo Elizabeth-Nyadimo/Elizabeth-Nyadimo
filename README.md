@@ -19,6 +19,12 @@ Business intelligence dashboard for monitoring **sales performance, revenue tren
 
 ---
 
+### 🏡 3. [Household Socio-Economic Impact Dashboard]()
+End-to-end **ELT pipeline** (BigQuery + dbt + Power BI) transforming raw household survey data into actionable insights for **policy and community development.**
+**Tech Stack:** BigQuery, dbt, Power BI, SQL
+
+---
+
 ### 🩺 3. [HIV Treatment Analysis Dashboard](https://github.com/Elizabeth-Nyadimo/HIV-Treatment-Analysis-Dashboard)  
 Power BI solution analyzing **treatment uptake, adherence, and outcomes** to support better program management and resource allocation.  
 **Tech Stack:** Power BI, Data Cleaning, Advanced DAX  
