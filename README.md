@@ -19,7 +19,7 @@ Business intelligence dashboard for monitoring **sales performance, revenue tren
 
 ---
 
-### 🏡 3. [Household Socio-Economic Impact Dashboard]()
+### 🏡 3. [Household Socio-Economic Impact Dashboard](https://github.com/Elizabeth-Nyadimo/Socio-Economic-Household-Impact-ELT-Pipeline-Dashboard)
 End-to-end **ELT pipeline** (BigQuery + dbt + Power BI) transforming raw household survey data into actionable insights for **policy and community development.**
 **Tech Stack:** BigQuery, dbt, Power BI, SQL
 
