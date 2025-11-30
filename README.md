@@ -7,7 +7,7 @@ I specialize in transforming raw data into clear, actionable insights using **Py
 
 ## 🚀 Featured Projects  
 
-### 📊 1. [Water Utility Revenue & Consumption Dashboard](https://github.com/Elizabeth-Nyadimo/Water-Utility-Revenue-Consumption-Dashboard)  
+### 📊 1. [Water Utility Revenue & Consumption Dashboard](https://github.com/Elizabeth-Nyadimo/Water-Utility-Revenue-Consumption-Dashboard.)  
 Interactive Power BI dashboard analyzing **monthly water consumption, billing, and payments** to identify trends, revenue gaps, and operational inefficiencies.  
 **Tech Stack:** Power BI, DAX, Data Cleaning, Data Modeling  
 
